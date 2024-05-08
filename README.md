@@ -1,2 +1,2 @@
 # intrepidbird.xyz
-Website
+Website - Redirects to intrepidbird.me
